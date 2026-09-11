@@ -1,0 +1,113 @@
+# Contributing to Awesome Saudi Open Source
+
+First off, thanks for your interest in contributing! We're excited to have you help grow this list of Saudi open-source projects.
+
+## Guidelines
+
+### Adding a New Project
+
+Before submitting a pull request, make sure your project meets these criteria:
+
+- **Open-source license:** Must have an open-source license (MIT, Apache 2.0, GPL, BSD, or similar)
+- **Saudi connection:** Primarily developed or maintained by Saudi developers/organizations
+- **Quality:** Has meaningful documentation (README with at least basic usage info)
+- **Activity:** Has at least 5+ stars, or demonstrates active development
+- **Completeness:** Has multiple commits and a clear commit history
+
+### Format
+
+When adding a project, use this format in the appropriate section table:
+
+```markdown
+| [Project Name](https://github.com/owner/repo) | ⭐ Stars | Language | Brief description of what the project does |
+```
+
+- **Project Name:** Exact name as it appears on GitHub
+- **Stars:** Current star count (will update in future versions)
+- **Language:** Primary programming language
+- **Description:** 1-2 sentences describing the project's purpose and key features
+
+### Finding the Right Category
+
+- **E-Invoicing & ZATCA:** Projects for ZATCA e-invoicing, Fatoora QR, compliance
+- **E-Commerce:** Salla integrations, storefronts, shopping cart solutions
+- **Developer Tools:** Utilities, SDKs, date conversion, design systems
+- **FinTech & Payments:** Banking, market data, payment processing, IBAN tools
+- **Compliance & Privacy:** PDPL compliance, PII detection, data protection
+- **Open Data & GovTech:** Government services, public data, official integrations
+- **Real Estate & PropTech:** Property management, real estate data
+- **AI/ML & NLP:** Machine learning, language processing, legal AI
+- **SaaS/ERP/POS:** Enterprise software, point of sale systems
+- **Data Science:** Data analysis, geospatial, research
+- **Education & Learning:** Educational resources, community learning
+
+### Style Guidelines
+
+- Keep descriptions factual and concise
+- Avoid marketing language (no "amazing," "revolutionary," etc.)
+- Use the active voice
+- Include the project's main use case or domain
+- Mention key features if they're notable (e.g., RTL support, Arabic support, ZATCA integration)
+
+### Updating Existing Entries
+
+- Fix typos or improve descriptions
+- Update star counts (if significantly different)
+- Move projects to more appropriate categories if needed
+- Add missing projects to existing categories
+
+### What We Don't Accept
+
+- Closed-source projects
+- Non-Saudi projects (unless they specifically support Saudi use cases)
+- Projects without open-source licenses
+- Abandoned projects with no activity for 2+ years (unless still widely used)
+- Duplicate entries
+- Self-promotion or spam
+
+## PR Process
+
+1. **Fork** the repository
+2. **Create a branch:** `git checkout -b add/project-name`
+3. **Make your changes** following the guidelines above
+4. **Commit with a clear message:** `git commit -m "Add Project Name to Category"`
+5. **Push to your fork:** `git push origin add/project-name`
+6. **Open a Pull Request** with:
+   - Clear title: "Add ProjectName" or "Update ProjectName"
+   - Description: Why is this project valuable for Saudi developers?
+   - Link to the GitHub repo
+
+## Review Process
+
+- Maintainers will review your PR within a week
+- We may ask for clarifications or adjustments
+- Once approved, your project will be merged and added to the list
+
+## Questions?
+
+- Check if your question is answered in the README
+- Look at existing issues for similar questions
+- Open an issue with the label `question` for other inquiries
+
+## Star Updates
+
+We update star counts periodically. If you see outdated star counts, you can:
+1. Open an issue with the tag `update-stars`
+2. Include the project name and current star count
+
+## Special Requests
+
+### New Categories
+
+If you think a project deserves its own category, open an issue with:
+- Category name
+- Projects that would fit
+- Why this category is important for Saudi developers
+
+## Code of Conduct
+
+Be respectful and inclusive. We're celebrating the Saudi developer community and want this to be a welcoming space for everyone.
+
+---
+
+**Thank you for contributing! 🇸🇦**
