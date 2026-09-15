@@ -222,3 +222,12 @@ This list is licensed under the [Creative Commons Attribution 4.0 International 
 <sub>🇸🇦 صنع بكل فخر بأيدي مطورين سعوديين · Crafted with Pride by Saudi Developers</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+<sub dir="rtl">🇸🇦 صنع في المملكة العربية السعودية</sub><br />
+<sub>Crafted with excellence in Saudi Arabia</sub>
+
+</div>
