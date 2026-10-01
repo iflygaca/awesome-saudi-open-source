@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/readme/banner-dark.svg">
-  <img alt="Saudi Open Source: A community directory of projects with Saudi context." src=".github/readme/banner.svg" width="1200">
-</picture>
+![Saudi Open Source: A community directory of projects with Saudi context.](https://github.com/iflygaca/awesome-saudi-open-source/blob/main/.github/readme/banner.png?raw=true)
 
 <a id="saudi-open-source"></a>
 
