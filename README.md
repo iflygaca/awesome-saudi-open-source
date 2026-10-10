@@ -1,4 +1,4 @@
-![Saudi Open Source: A community directory of projects with Saudi context.](https://github.com/iflygaca/awesome-saudi-open-source/blob/main/.github/readme/banner.png?raw=true)
+![Saudi Open Source: A community directory of projects with Saudi context.](./.github/readme/banner.png)
 
 <a id="saudi-open-source"></a>
 
@@ -18,7 +18,44 @@ Explore tools, datasets and libraries with Saudi context. Inclusion is a discove
 
 <a id="-categories"></a>
 
-**Explore:** [Categories](#categories) · [AI/ML & Arabic NLP](#aiml--arabic-nlp) · [E-Invoicing & ZATCA](#e-invoicing--zatca) · [E-Commerce & Salla Ecosystem](#e-commerce--salla-ecosystem) · [Developer Tools & SDKs](#developer-tools--sdks) · [FinTech & Payments](#fintech--payments) · [Compliance, Privacy & PDPL](#compliance-privacy--pdpl) · [Open Data & GovTech](#open-data--govtech) · [Real Estate & PropTech](#real-estate--proptech) · [SaaS, ERP & POS](#saas-erp--pos) · [Data Science & GIS](#data-science--gis) · [Education & Open Science](#education--open-science) · [Contribution Guidelines](#contribution-guidelines) · [License](#license)
+![awesome-saudi-open-source project overview: capabilities, source locations and verification](.github/readme/overview.svg)
+
+<a id="find-a-project-that-fits"></a>
+
+<details>
+<summary>On this page</summary>
+
+- [Find a project that fits](#find-a-project-that-fits)
+- [Categories](#categories)
+- [AI/ML & Arabic NLP](#aiml-arabic-nlp)
+- [E-Invoicing & ZATCA](#e-invoicing-zatca)
+- [E-Commerce & Salla Ecosystem](#e-commerce-salla-ecosystem)
+- [Developer Tools & SDKs](#developer-tools-sdks)
+- [FinTech & Payments](#fintech-payments)
+- [Compliance, Privacy & PDPL](#compliance-privacy-pdpl)
+- [Open Data & GovTech](#open-data-govtech)
+- [Real Estate & PropTech](#real-estate-proptech)
+- [SaaS, ERP & POS](#saas-erp-pos)
+- [Data Science & GIS](#data-science-gis)
+- [Education & Open Science](#education-open-science)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Keep this guide healthy](#keep-this-guide-healthy)
+- [License](#license)
+
+</details>
+
+## Find a project that fits
+
+| Need | Start with | Check before adopting |
+| --- | --- | --- |
+| Arabic language tooling | AI/ML & Arabic NLP | Data handling, model license and supported inputs |
+| Merchant integrations | E-Invoicing or E-Commerce | API compatibility and repository tests |
+| Data and research | Open Data, GIS or Education | Provenance and redistribution license |
+| Reusable infrastructure | Developer Tools & SDKs | Maintenance activity and release notes |
+
+Use GitHub's page outline or browser find to jump to a category. Entries are discovery leads; validate the original repository before depending on it.
+
+<a id="categories"></a>
 
 ## Categories
 
@@ -40,6 +77,8 @@ Explore tools, datasets and libraries with Saudi context. Inclusion is a discove
 
 <a id="-aiml--arabic-nlp"></a>
 
+<a id="aiml-arabic-nlp"></a>
+
 ## AI/ML & Arabic NLP
 
 Artificial intelligence, natural language processing, and grounding frameworks specialized for Saudi legal, business, and linguistic domains.
@@ -54,6 +93,8 @@ Artificial intelligence, natural language processing, and grounding frameworks s
 ---
 
 <a id="-e-invoicing--zatca"></a>
+
+<a id="e-invoicing-zatca"></a>
 
 ## E-Invoicing & ZATCA
 
@@ -81,6 +122,8 @@ ZATCA (Zakat, Tax and Customs Authority) e-invoicing implementations, SDKs, and 
 
 <a id="️-e-commerce--salla-ecosystem"></a>
 
+<a id="e-commerce-salla-ecosystem"></a>
+
 ## E-Commerce & Salla Ecosystem
 
 Platforms, SDKs, merchant integration layers, and starter templates powering the Saudi e-commerce ecosystem.
@@ -99,6 +142,8 @@ Platforms, SDKs, merchant integration layers, and starter templates powering the
 
 <a id="️-developer-tools--sdks"></a>
 
+<a id="developer-tools-sdks"></a>
+
 ## Developer Tools & SDKs
 
 General-purpose utilities, design system implementations, and APIs created by Saudi developers.
@@ -113,6 +158,8 @@ General-purpose utilities, design system implementations, and APIs created by Sa
 ---
 
 <a id="-fintech--payments"></a>
+
+<a id="fintech-payments"></a>
 
 ## FinTech & Payments
 
@@ -131,6 +178,8 @@ Financial data feeds, market APIs, and banking integration libraries for Saudi e
 
 <a id="️-compliance-privacy--pdpl"></a>
 
+<a id="compliance-privacy-pdpl"></a>
+
 ## Compliance, Privacy & PDPL
 
 Tooling dedicated to data residency, audit trails, and compliance with the Saudi Personal Data Protection Law (PDPL).
@@ -144,6 +193,8 @@ Tooling dedicated to data residency, audit trails, and compliance with the Saudi
 <a id="-open-data--govtech"></a>
 
 <a id="️-open-data--govtech"></a>
+
+<a id="open-data-govtech"></a>
 
 ## Open Data & GovTech
 
@@ -159,6 +210,8 @@ Integrations and themes built to interact with Saudi government open data platfo
 
 <a id="-real-estate--proptech"></a>
 
+<a id="real-estate-proptech"></a>
+
 ## Real Estate & PropTech
 
 PropTech platforms and real estate data repositories.
@@ -172,6 +225,8 @@ PropTech platforms and real estate data repositories.
 
 <a id="-saas-erp--pos"></a>
 
+<a id="saas-erp-pos"></a>
+
 ## SaaS, ERP & POS
 
 Point-of-sale and enterprise resource planning software tailored for Saudi merchants.
@@ -183,6 +238,8 @@ Point-of-sale and enterprise resource planning software tailored for Saudi merch
 ---
 
 <a id="-data-science--gis"></a>
+
+<a id="data-science-gis"></a>
 
 ## Data Science & GIS
 
@@ -196,6 +253,8 @@ Spatial datasets and geographic boundary utilities for the Kingdom.
 
 <a id="-education--open-science"></a>
 
+<a id="education-open-science"></a>
+
 ## Education & Open Science
 
 Platforms promoting open science, curriculum sharing, and educational advancement in Saudi Arabia.
@@ -207,6 +266,8 @@ Platforms promoting open science, curriculum sharing, and educational advancemen
 ---
 
 <a id="-contribution-guidelines"></a>
+
+<a id="contribution-guidelines"></a>
 
 ## Contribution Guidelines
 
@@ -226,6 +287,18 @@ Want to add your project or suggest improvements?
 
 <a id="-license"></a>
 
+<a id="license"></a>
+
+## Keep this guide healthy
+
+Run the dependency-free documentation check from the repository root:
+
+```bash
+node .github/scripts/check-readmes.mjs
+```
+
+It checks tracked README links to repository paths and sections on the same page. Review external URLs, screenshots and Mermaid diagrams separately. Update feature claims only when the source and release evidence support them.
+
 ## License
 
 This list is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
@@ -241,6 +314,8 @@ This list is licensed under the [Creative Commons Attribution 4.0 International 
 <sub>🇸🇦 صنع بكل فخر بأيدي مطورين سعوديين · Crafted with Pride by Saudi Developers</sub>
 
 </div>
+
+---
 
 ---
 
