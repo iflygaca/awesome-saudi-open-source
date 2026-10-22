@@ -1,5 +1,17 @@
 ![Saudi Open Source: A community directory of projects with Saudi context.](./.github/readme/banner.png)
 
+
+## From discovery to contribution
+
+```mermaid
+flowchart LR
+    Need["A problem to solve"] --> Browse["Browse a category"]
+    Browse --> Inspect["Check source and license"]
+    Inspect --> Evaluate["Review maintenance and fit"]
+    Evaluate -->|Useful| Adopt["Try the project"]
+    Evaluate -->|Missing entry| Contribute["Suggest an update"]
+```
+
 <a id="saudi-open-source"></a>
 
 # Saudi Open Source
