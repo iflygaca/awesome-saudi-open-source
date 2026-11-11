@@ -337,3 +337,5 @@ This list is licensed under the [Creative Commons Attribution 4.0 International 
 <sub>Crafted with excellence in Saudi Arabia</sub>
 
 </div>
+
+[GACAR and Saudi AIP cross-reference](REGULATORY-CROSSWALK.md) — repository topics, official sections, editions and review gaps.
